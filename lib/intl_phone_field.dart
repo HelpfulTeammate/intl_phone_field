@@ -345,6 +345,7 @@ if (widget.validator != null) {
     });
   }
 }
+  }
 
   Future<void> _changeCountry() async {
     filteredCountries = _countryList;
